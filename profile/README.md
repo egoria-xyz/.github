@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d6a4f,52b788,95d5b2&height=200&section=header&text=⛏️%20EGORIA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Serveur%20Minecraft%201.21.1%20Survie%20%7C%20Aventure%20%7C%20Communauté&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d6a4f,52b788,95d5b2&height=200&section=header&text=⛏️%20EGORIA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Serveur%20Minecraft%201.21.11%20Survie%20%7C%20Aventure%20%7C%20Communauté&descAlignY=55&descSize=18" />
 
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre_la_communauté-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.egoria.xyz)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.egoria.xyz)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.egoria.xyz)
 [![Site Web](https://img.shields.io/badge/Site_Web-egoria.xyz-F5A623?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.egoria.xyz)
 [![IP](https://img.shields.io/badge/IP-mc.egoria.xyz-E74C3C?style=for-the-badge&logo=serverfault&logoColor=white)](https://www.egoria.xyz)
 
@@ -56,7 +56,7 @@
 ## 🚀 Comment rejoindre ?
 
 ```bash
-# 1️⃣  Lance Minecraft Java Edition 1.21.1
+# 1️⃣  Lance Minecraft Java Edition 1.21.11
 # 2️⃣  Ajouter un serveur
 
 Adresse IP ➜  mc.egoria.xyz
